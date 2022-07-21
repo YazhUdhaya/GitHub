@@ -1,0 +1,41 @@
+.container-fluid {
+  background-color: #2F3D48;
+ 
+}
+body{
+background-color:rgb(202,210,197);
+}
+.container{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+.leftmenu {
+  background-color: rgb(53, 53, 53);
+  height: 500px;
+  border-radius: 20px;
+}
+
+.SearchBar {
+  background-color: rgb(53, 53, 53);
+  border-radius: 10px;
+  height: 45px;
+  color:white;
+  letter-spacing:2px;
+ font-weight:normal;
+  font-size:20px;
+filter:blur(0.7px)
+}
+
+.Item1 {
+  background-color: rgb(53, 53, 53);
+  border-radius: 10px;
+  height: 140px;
+}
+
+.endMenu {
+  background-color: rgb(53, 53, 53);
+  border-radius: 10px;
+  height: 180px;
+}
